@@ -27,7 +27,7 @@ function Search() {
       <div>
         {showError && (
           <p className="alert alert-danger">
-            No reservation found
+            No reservations found
           </p>
         )}
       </div>
